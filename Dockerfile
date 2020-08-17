@@ -1,2 +1,2 @@
 FROM busybox:latest
-CMD [„date”]
+CMD ["date"]
